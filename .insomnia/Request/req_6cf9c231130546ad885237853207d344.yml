@@ -1,0 +1,21 @@
+_id: req_6cf9c231130546ad885237853207d344
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641452971384
+created: 1641452058704
+url: http://localhost:24072/api/referensiKabKota
+name: Ref KabKota
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641452760727
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

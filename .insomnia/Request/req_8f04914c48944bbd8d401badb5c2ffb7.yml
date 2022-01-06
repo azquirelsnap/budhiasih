@@ -1,0 +1,99 @@
+_id: req_8f04914c48944bbd8d401badb5c2ffb7
+type: Request
+parentId: fld_c69daafef857475595eae5984a1ac121
+modified: 1641453667382
+created: 1641453263616
+url: http://localhost:24072/api/aud_update_kanker
+name: CRUD Update Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {"id" : "5886","id_jenis_pelaporan" : "2",
+
+    "id_jenis_kasus" : "2.5",
+
+    "nik" : "ddddddd",
+
+    "nama_pasien" : "test",
+
+    "id_jenis_kelamin" : "1","tanggal_lahir" : "1988-01-21",
+
+    "alamat" : "jakarta",
+
+    "id_kelurahan" : "3175061005",
+
+    "id_kecamatan" : "317506",
+
+    "id_kab_kota" : "3175",
+
+    "id_provinsi" : "31",
+
+    "alamat_tinggal" : "Jakarta",
+
+    "id_kelurahan_tinggal" : "3175061005",
+
+    "id_kecamatan_tinggal" : "317506",
+
+    "id_kab_kota_tinggal" : "3175",
+
+    "id_provinsi_tinggal" : "31",
+
+    "kontak_pasien" : "0811222122222",
+
+    "tanggal_masuk" : "2021-09-22",
+
+    "id_cara_masuk_pasien" : "1",
+
+    "id_asal_rujukan_pasien" : "2",
+
+    "asal_rujukan_pasien_fasyankes_lainnya" : "",
+
+    "id_diagnosa_masuk" : "A91",
+
+    "id_sub_instalasi_unit" : "3.1",
+
+    "id_diagnosa_utama" : "A91a",
+
+    "id_diagnosa_sekunder1" : "",
+
+    "id_diagnosa_sekunder2" : "",
+
+    "id_diagnosa_sekunder3" : "",
+
+    "tanggal_diagnosa" : "2021-09-21",
+
+    "tanggal_keluar" : "2021-09-21",
+
+    "id_cara_keluar" : "1",
+
+    "id_keadaan_keluar" : "3",
+
+    "id_sebab_kematian_langsung_1a" : "",
+
+    "id_sebab_kematian_antara_1b" : "",
+
+    "id_sebab_kematian_antara_1c" : "",
+
+    "id_sebab_kematian_dasar_1d" : "","id_kondisi_yg_berkontribusi_thdp_kematian" : "",
+
+    "sebab_dasar_kematian" : "",
+
+    "id_cara_bayar" : "2",
+
+    "nomor_bpjs" : "222222222" }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_59b21f0d9b5949279e1117a3b726eca8
+authentication: {}
+metaSortKey: -1641451444941.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_ac0d897a7af84b0298e50adcee70aff4
+type: Request
+parentId: wrk_9000b274b2fa49a9876ccd3a184c2fad
+modified: 1641452659100
+created: 1641452508582
+url: 103.74.143.45/sirsonline/api/kelurahan/all
+name: Testing
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_4c90bf77791744cab93f53936767324f
+    name: Content-Type
+    value: application/json
+    description: ""
+  - id: pair_2cb81b2b364348f2b8fe439664af902e
+    name: X-Api-Key
+    value: sirskemkes
+    description: ""
+  - id: pair_56dd5c449e6a47d78de56a1f32e38ae0
+    name: X-Token
+    value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImlkIjoiMTMyOSJ9LCJpYXQiOjE2NDE0NTEyNjgsImV4cCI6MTY0MTUzNzY2OH0.1g3RYJvId9yQPSW60AlVHxXLARlQzMzQ-ZqZ9SIMXpQ
+    description: ""
+authentication: {}
+metaSortKey: -1641452508582
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

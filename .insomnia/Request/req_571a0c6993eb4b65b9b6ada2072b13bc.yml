@@ -1,0 +1,21 @@
+_id: req_571a0c6993eb4b65b9b6ada2072b13bc
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641453117886
+created: 1641452988520
+url: http://localhost:24072/api/referensisubinstalasi
+name: Ref Subinstalasi
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451802094.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

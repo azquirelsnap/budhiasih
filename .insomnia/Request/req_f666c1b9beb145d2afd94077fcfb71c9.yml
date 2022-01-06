@@ -1,0 +1,21 @@
+_id: req_f666c1b9beb145d2afd94077fcfb71c9
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641453116445
+created: 1641451696277
+url: http://localhost:24072/api/referensiInstalasi
+name: Ref Instalasi
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451933951.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

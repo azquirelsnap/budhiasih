@@ -1,0 +1,21 @@
+_id: req_5ced44a0b417463385c2417d5a2d8132
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641452956397
+created: 1641452948414
+url: http://localhost:24072/api/referensiPropinsi
+name: Ref Propinsi
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641452948414
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_e20a625aec354b7ba798dc4f68065554
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641452967954
+created: 1641452125514
+url: http://localhost:24072/api/referensiKecamatan
+name: Ref Kecamatan
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641452573040
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

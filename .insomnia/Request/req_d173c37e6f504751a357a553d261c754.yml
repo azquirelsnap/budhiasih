@@ -1,0 +1,21 @@
+_id: req_d173c37e6f504751a357a553d261c754
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641451550915
+created: 1641451542013
+url: http://localhost:24072/api/referensicarakeluar
+name: Ref Cara Keluar
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451542013
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

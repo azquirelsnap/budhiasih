@@ -1,0 +1,23 @@
+_id: req_3309ff85bdc84e34bce45408d92d8051
+type: Request
+parentId: wrk_9000b274b2fa49a9876ccd3a184c2fad
+modified: 1641454733158
+created: 1641451191542
+url: http://localhost:24072/api/createtoken
+name: Create Token
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451900801.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

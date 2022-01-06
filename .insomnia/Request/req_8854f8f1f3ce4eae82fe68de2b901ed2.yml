@@ -1,0 +1,26 @@
+_id: req_8854f8f1f3ce4eae82fe68de2b901ed2
+type: Request
+parentId: fld_c69daafef857475595eae5984a1ac121
+modified: 1641453671826
+created: 1641453350851
+url: http://localhost:24072/api/aud_delete_registerpenyakit
+name: CRUD Delete Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"id" : "5886"  }'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_59b21f0d9b5949279e1117a3b726eca8
+authentication: {}
+metaSortKey: -1641451444934.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

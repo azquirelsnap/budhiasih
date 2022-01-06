@@ -1,0 +1,21 @@
+_id: req_1c7ba8fa60514bdda95a9b8d98d48cfd
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641453096636
+created: 1641453081423
+url: http://localhost:24072/api/referensikeadaankeluar
+name: Ref Keadaan Keluar
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451478699.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

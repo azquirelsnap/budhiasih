@@ -1,0 +1,21 @@
+_id: req_5e5195bbd29441d8b8c0a39b0724e2f3
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641452244097
+created: 1641452197666
+url: http://localhost:24072/api/referensikelurahan
+name: Ref Kelurahan
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641452197666
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

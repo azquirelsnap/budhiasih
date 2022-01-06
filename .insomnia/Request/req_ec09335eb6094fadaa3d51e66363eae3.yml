@@ -1,0 +1,30 @@
+_id: req_ec09335eb6094fadaa3d51e66363eae3
+type: Request
+parentId: fld_c69daafef857475595eae5984a1ac121
+modified: 1641453669094
+created: 1641453431232
+url: http://localhost:24072/api/getregisterpenyakit
+name: CRUD Select Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_be8a9db6bce4422b917af18c889fc45b
+    name: id_register
+    value: "5887"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_59b21f0d9b5949279e1117a3b726eca8
+authentication: {}
+metaSortKey: -1641451444928.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_d3a98f3ce21a4596b16cc82153df5f88
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641453098591
+created: 1641451415386
+url: http://localhost:24072/api/referensicarabayar
+name: Ref Cara Bayar
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451670237
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

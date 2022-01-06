@@ -1,0 +1,21 @@
+_id: req_bb4255c59b9d41e6b13dd05123863ed4
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641451676723
+created: 1641451670212
+url: http://localhost:24072/api/referensicaramasuk
+name: Ref Cara Masuk
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451670212
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

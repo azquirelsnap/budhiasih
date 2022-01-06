@@ -1,0 +1,21 @@
+_id: req_127c91a5d6444d829e7d35e005dadd70
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641453122316
+created: 1641451834969
+url: http://localhost:24072/api/referensiJenisKelamin
+name: Ref Jenis Kelamin
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451703201.3125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_27496c77ab774b449043ce07773aad92
+type: Request
+parentId: fld_54be9a8cd95f4941b83029235d3f82d1
+modified: 1641453120710
+created: 1641451340855
+url: http://localhost:24072/api/referensiasalrujukan
+name: Ref Asal Rujukan
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641451736165.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
